@@ -1,0 +1,20 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "Browser based game",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeciLust/defender-game.git"
+  },
+  "keywords": ["game"],
+  "author": "Kecis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KeciLust/defender-game/issues"
+  },
+  "homepage": "https://github.com/KeciLust/defender-game#readme"
+}
